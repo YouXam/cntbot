@@ -1,5 +1,11 @@
 # CNTBOT 机器人 v2
 
+## 部分功能依赖的代码库
+
+1. pixiv, ag 功能：[cntbot-services](https://github.com/YouXam/cntbot-services) 
+2. ag 功能：[cntbot-web](https://github.com/YouXam/cntbot-web)
+3. idi 功能：[cntbot-idi](https://github.com/YouXam/cntbot-idi)
+
 ## 通过命令显式触发的功能
 
 ### 默认开启的功能
