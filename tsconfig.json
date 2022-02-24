@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "removeComments": true,
+        "target": "es6",
+        "noImplicitAny": false,
+        "preserveConstEnums": true,
+        "outDir": "./dist/",
+        "rootDir":"./src/",
+        "incremental": true,
+        "esModuleInterop": true
+    }
+}

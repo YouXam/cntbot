@@ -1,0 +1,22 @@
+{
+    "name": "cntbot2",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@types/pinyin": "^2.10.0",
+        "@types/websocket": "^1.0.5",
+        "axios": "^0.25.0",
+        "mongodb": "^4.3.1",
+        "oicq": "^2.1.9",
+        "pinyin": "^2.10.2",
+        "typescript": "^4.5.5",
+        "websocket": "^1.0.34"
+    },
+    "scripts": {
+        "start": "tsc && node dist/index.js"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.13"
+    }
+}
